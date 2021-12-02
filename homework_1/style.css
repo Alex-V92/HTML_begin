@@ -1,0 +1,34 @@
+body{
+background-color:silver;
+width:70%;
+margin-left: auto;
+margin-right: auto;
+}
+
+h2, h3{
+margin-bottom:1.5em;
+}
+
+h1{
+font-size:38px;
+}
+
+table,th,td{
+border:1px solid grey;
+border-collapse: collapse;}
+
+figcaption{
+font-style:italic;}
+
+img{
+float:right;}
+
+figure {
+   clear: right;
+   float: right;
+   width:10em''
+}
+
+figure>img{
+width:100%;
+}
